@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(255, 0, 0, 0.856);
+}
+form{
+    background-color: white; 
+    padding: 25px;
+    width: 90%;
+    margin: auto;
+    border-radius: 2%;
+}
+input{
+    display: block;
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    border-color: darkblue;
+    margin-top: 5%;
+}
+
+
+input::placeholder{
+    color: darkblue;
+
+
+}
+#sub{
+    color:black;
+    background-color: red;
+    width: 70%;
+    padding: 1%;
+    display: block;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 35px;
+font-size: 200%;
+text-align: center;
+
+}
+label{
+    margin: auto;
+}
